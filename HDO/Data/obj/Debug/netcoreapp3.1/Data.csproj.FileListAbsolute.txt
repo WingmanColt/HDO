@@ -1,0 +1,5 @@
+C:\Users\iNexus\source\repos\HDO\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\iNexus\source\repos\HDO\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\iNexus\source\repos\HDO\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\iNexus\source\repos\HDO\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\iNexus\source\repos\HDO\Data\bin\Debug\netcoreapp3.1\Models.dll

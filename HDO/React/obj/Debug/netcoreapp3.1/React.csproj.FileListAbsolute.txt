@@ -1,0 +1,8 @@
+C:\Users\iNexus\source\repos\HDO\React\bin\Debug\netcoreapp3.1\React.deps.json
+C:\Users\iNexus\source\repos\HDO\React\bin\Debug\netcoreapp3.1\React.dll
+C:\Users\iNexus\source\repos\HDO\React\bin\Debug\netcoreapp3.1\React.pdb
+C:\Users\iNexus\source\repos\HDO\React\obj\Debug\netcoreapp3.1\React.AssemblyInfoInputs.cache
+C:\Users\iNexus\source\repos\HDO\React\obj\Debug\netcoreapp3.1\React.AssemblyInfo.cs
+C:\Users\iNexus\source\repos\HDO\React\obj\Debug\netcoreapp3.1\React.csproj.CoreCompileInputs.cache
+C:\Users\iNexus\source\repos\HDO\React\obj\Debug\netcoreapp3.1\React.dll
+C:\Users\iNexus\source\repos\HDO\React\obj\Debug\netcoreapp3.1\React.pdb
