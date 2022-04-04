@@ -1,4 +1,5 @@
 ﻿using System;
+using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace Models.Input
@@ -15,7 +16,7 @@ namespace Models.Input
         public int Rating { get; set; }
         public int VotedUsers { get; set; }
         public int Views { get; set; }
-        public int CategoryId { get; set; }
+        public string CategoryName { get; set; }
         public int Runtime { get; set; }
 
         [DisplayFormat(DataFormatString = "{0:yyyy}")]

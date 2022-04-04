@@ -1,0 +1,15 @@
+C:\source\repos\HDO\Models\bin\Release\net5.0\Models.deps.json
+C:\source\repos\HDO\Models\bin\Release\net5.0\Models.dll
+C:\source\repos\HDO\Models\bin\Release\net5.0\ref\Models.dll
+C:\source\repos\HDO\Models\bin\Release\net5.0\Models.pdb
+C:\source\repos\HDO\Models\bin\Release\net5.0\React.dll
+C:\source\repos\HDO\Models\bin\Release\net5.0\React.pdb
+C:\source\repos\HDO\Models\obj\Release\net5.0\Models.csprojAssemblyReference.cache
+C:\source\repos\HDO\Models\obj\Release\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\HDO\Models\obj\Release\net5.0\Models.AssemblyInfoInputs.cache
+C:\source\repos\HDO\Models\obj\Release\net5.0\Models.AssemblyInfo.cs
+C:\source\repos\HDO\Models\obj\Release\net5.0\Models.csproj.CoreCompileInputs.cache
+C:\source\repos\HDO\Models\obj\Release\net5.0\Models.csproj.CopyComplete
+C:\source\repos\HDO\Models\obj\Release\net5.0\Models.dll
+C:\source\repos\HDO\Models\obj\Release\net5.0\ref\Models.dll
+C:\source\repos\HDO\Models\obj\Release\net5.0\Models.pdb

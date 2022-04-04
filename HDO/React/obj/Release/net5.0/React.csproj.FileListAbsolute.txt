@@ -1,0 +1,12 @@
+C:\source\repos\HDO\React\bin\Release\net5.0\React.deps.json
+C:\source\repos\HDO\React\bin\Release\net5.0\React.dll
+C:\source\repos\HDO\React\bin\Release\net5.0\ref\React.dll
+C:\source\repos\HDO\React\bin\Release\net5.0\React.pdb
+C:\source\repos\HDO\React\obj\Release\net5.0\React.csprojAssemblyReference.cache
+C:\source\repos\HDO\React\obj\Release\net5.0\React.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\HDO\React\obj\Release\net5.0\React.AssemblyInfoInputs.cache
+C:\source\repos\HDO\React\obj\Release\net5.0\React.AssemblyInfo.cs
+C:\source\repos\HDO\React\obj\Release\net5.0\React.csproj.CoreCompileInputs.cache
+C:\source\repos\HDO\React\obj\Release\net5.0\React.dll
+C:\source\repos\HDO\React\obj\Release\net5.0\ref\React.dll
+C:\source\repos\HDO\React\obj\Release\net5.0\React.pdb

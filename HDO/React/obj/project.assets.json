@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\repos\\HDO\\React\\React.csproj",
+      "projectUniqueName": "C:\\Users\\iNexus\\Desktop\\New folder\\HDO\\React\\React.csproj",
       "projectName": "React",
-      "projectPath": "C:\\source\\repos\\HDO\\React\\React.csproj",
+      "projectPath": "C:\\Users\\iNexus\\Desktop\\New folder\\HDO\\React\\React.csproj",
       "packagesPath": "C:\\Users\\iNexus\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\repos\\HDO\\React\\obj\\",
+      "outputPath": "C:\\Users\\iNexus\\Desktop\\New folder\\HDO\\React\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iNexus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,12 +55,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

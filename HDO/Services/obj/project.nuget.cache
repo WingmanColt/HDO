@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C7C3H56vKztiTJDnqQZWie0z1mU67ZTKQi+Kl5/SI5R1BQ8nvEgdKjr0hSqg3NtGThDxrzSCB/ZaOL9SwA0Ttw==",
+  "dgSpecHash": "kP+HjkedEv7zfWRq3liI/Ib3Lk6IeSK8v4EbFTb/ycOBeMUVybGhQgKTUAivNERTqvwyQELOXKlgr2M9ra4c6Q==",
   "success": true,
-  "projectFilePath": "C:\\source\\repos\\HDO\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Users\\iNexus\\Desktop\\New folder\\HDO\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iNexus\\.nuget\\packages\\ardalis.guardclauses\\3.0.1\\ardalis.guardclauses.3.0.1.nupkg.sha512",
     "C:\\Users\\iNexus\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
@@ -115,7 +115,10 @@
     "C:\\Users\\iNexus\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\iNexus\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\iNexus\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\iNexus\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\iNexus\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\iNexus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\iNexus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\iNexus\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

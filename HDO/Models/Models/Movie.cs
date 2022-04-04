@@ -15,7 +15,7 @@ namespace Models
         public int Rating { get; set; }
         public int VotedUsers { get; set; }
         public int Views { get; set; }
-        public int CategoryId { get; set; }
+        public string CategoryName { get; set; }
         public int Runtime { get; set; }
         public DateTime DateOfRelease { get; set; }
         public string UserId { get; set; }
@@ -42,8 +42,8 @@ namespace Models
             Guard.Against.NullOrEmpty(Model.TrailerPath, nameof(Model.TrailerPath));
             TrailerPath = Model.TrailerPath;
 
-            Guard.Against.Negative(Model.CategoryId, nameof(Model.CategoryId));
-            CategoryId = Model.CategoryId;
+            Guard.Against.NullOrEmpty(Model.CategoryName, nameof(Model.CategoryName));
+            CategoryName = Model.CategoryName;
 
             Guard.Against.Negative(Model.Runtime, nameof(Model.Runtime));
             Runtime = Model.Runtime;

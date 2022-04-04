@@ -45,7 +45,7 @@
         }
 
         // Seed Categories
-        public async Task<OperationResult> SeedCategories()
+      /*  public async Task<OperationResult> SeedCategories()
         {
             if (await GetAllAsNoTracking().AnyAsync())
                 return OperationResult.FailureResult("Categories already exists.");
@@ -66,7 +66,7 @@
 
             var result = await categoriesRepository.SaveChangesAsync();
             return result;
-        }
+        }*/
 
         public async Task<Category> GetByIdAsync(int id)
         {

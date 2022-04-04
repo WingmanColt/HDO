@@ -13,7 +13,7 @@ namespace Services.Base.Contracts
         Task<OperationResult> Delete(int id);
         Task<OperationResult> Update(MovieInputModel Model);
 
-        IAsyncEnumerable<Movie> GetByCategoryAsync(int id);
+        IAsyncEnumerable<Movie> GetByCategoryAsync(string sysName);
         IAsyncEnumerable<Movie> GetMoviesAsync(int count);
 
         IAsyncEnumerable<Movie> GetRatedMoviesAsync(int count);
@@ -21,7 +21,7 @@ namespace Services.Base.Contracts
         IAsyncEnumerable<Movie> GetNewestMoviesAsync(int count);
 
         IAsyncEnumerable<Movie> GetMovieByIdAsync(int id);
-        IAsyncEnumerable<Movie> GetSimilarMoviesAsync(string title, int catId);
+        IAsyncEnumerable<Movie> GetSimilarMoviesAsync(string title, string catSysName);
 
         IQueryable<Movie> GetAllAsNoTracking();
         Task<Movie> GetByIdAsync(int id);

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ALf7s9pzrdWj+mCxONAbzTMIEQt3Gkpymoe3wMLxpREd/Vhj59UcG81+DYUgmBWmFccO3qLDOKkGVgrC6Feiqg==",
+  "dgSpecHash": "Yn8Ilk7AcxQC0ZVW0maPdWbtUYuiSzr8lVdRl6tuiilX7CBHVnE1SwdGLrahxIkTTHKt3ZVqQvJEAicfhRzh3g==",
   "success": true,
-  "projectFilePath": "C:\\source\\repos\\HDO\\React\\React.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\iNexus\\Desktop\\New folder\\HDO\\React\\React.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iNexus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\iNexus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\iNexus\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

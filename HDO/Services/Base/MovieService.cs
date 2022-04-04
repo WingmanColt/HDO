@@ -20,7 +20,7 @@ namespace Services.Base
         public MovieService(IRepository<Movie> movieRepository, BaseDbContext _context)
         {
             _movieRepository = movieRepository;
-           // SeedTest(_context);
+          //  SeedTest(_context);
         }
 
         public async Task<OperationResult> Create(MovieInputModel Model)
@@ -111,10 +111,10 @@ namespace Services.Base
 
             return entity;
         }
-        public IAsyncEnumerable<Movie> GetByCategoryAsync(int id)
+        public IAsyncEnumerable<Movie> GetByCategoryAsync(string sysName)
         {
             var entity = GetAllAsNoTracking()
-                .Where(x => x.CategoryId == id)
+                .Where(x => x.CategoryName == sysName)
                 .OrderByDescending(x => x.Rating)
                 .Take(20)
                 .AsAsyncEnumerable();
@@ -122,10 +122,10 @@ namespace Services.Base
             return entity;
         }
 
-        public IAsyncEnumerable<Movie> GetSimilarMoviesAsync(string title, int catId)
+        public IAsyncEnumerable<Movie> GetSimilarMoviesAsync(string title, string catSysName)
         {
             var entity = GetAllAsNoTracking()
-                .Where(x => (x.CategoryId == catId) || (x.Title == title))
+                .Where(x => (x.CategoryName == catSysName) || (x.Title == title))
                 .AsAsyncEnumerable();
 
             return entity;
@@ -149,14 +149,14 @@ namespace Services.Base
         {
             var test = new List<Movie>();
             Random r = new Random();
-            for (int i = 0; i < 500; i++)
+            for (int i = 0; i < 50; i++)
             {
                 test = new List<Movie>
                 {
                 new Movie
                 {
                  Title = $"Movie - #{i}",
-                 CategoryId = r.Next(1, 13),
+                 CategoryName = "action", //r.Next(1, 13),
                  About = "HDO HDO HDO HDO HDO HDO",
                  URL = "yg.mp4",
                  ThumbnailPath = "https://image.tmdb.org/t/p/original//4EYPN5mVIhKLfxGruy7Dy41dTVn.jpg",
